@@ -2,6 +2,9 @@
 
 
 
+
+
+
 	# QuizApp
 Android QuizApp
 This is an Android app written in Java and the layout was written in XML, if you are interested to learn more about the Layouts please read here
@@ -36,6 +39,7 @@ QuestionsFeeder.java - This is feeding the questions from the ArrayList.
 
 #5
 Question.java - The main question body, here the questions also get verified too
+
 
 
 

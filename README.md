@@ -42,8 +42,15 @@ Question.java - The main question body, here the questions also get verified too
 
 
 Preview
-
+#Start Screen
 ![](Screenshtots/StartScreen.png)
+
+#Play mode
+![](Screenshtots/afterSelection.png)
+
+#Game over
+![](Screenshtots/GameOver.png)
+
 
 
 

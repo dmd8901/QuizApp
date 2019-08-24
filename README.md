@@ -43,7 +43,8 @@ Question.java - The main question body, here the questions also get verified too
 
 Preview
 
-![](QuizApp/Screenshtots/StartScreen.png)
+![](Screenshtots/StartScreen.png)
+
 
 
 
